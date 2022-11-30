@@ -1,6 +1,7 @@
 # lista zakupowa Bartka już nigdy wam się nie skończą pomysły
 
 | nazwa | atrybuty | cena | gdzie kupić (TODO) |
+|-------|----------|------|--------------------|
 | lamy safari pióro wieczne | w kolorze umbra, stalówka left-handed LH | ~ 100pln| |
 | suszarka do włosów | podstawowa najzwyklejsza xd | ~ 100pln | |
 | pomada do włosów | reuzel / uppercut | ~ 70pln | |
