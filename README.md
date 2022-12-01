@@ -16,6 +16,8 @@
 | sygnet | jakiś fajny | ~xpln | |
 | monstera do mieszkania | ew. inne fajne kwiatki lub roślinki | ~xpln | |
 | call of duty modern warfare 2 | na ps5 to nowe ale jak kupisz to nie będę miał czasu na życie | ~ 320pln | |
+| zestaw legosów | żeby się fajnie prezentował | ~xpln | |
+| ... | ... | ~ ... pln | |
 
 ## a jak nie będzie żadnych z powyższych rzeczy
 
