@@ -1,36 +1,11 @@
-# lista zakupowa Bartka już nigdy wam się nie skończą pomysły
-
-| nazwa | atrybuty | cena | gdzie kupić (TODO) |
-|-------|----------|------|--------------------|
-| lamy safari pióro wieczne | w kolorze umbra, stalówka left-handed LH | ~ 100pln| |
-| suszarka do włosów | podstawowa najzwyklejsza xd | ~ 100pln | |
-| pomada do włosów | reuzel / uppercut | ~ 70pln | |
-| kupon na tatuaż | prezent najlepiej od mamy | ~ 16pln | |
-| kabel DP | DP-DP męsko-męski | ~ 40pln | |
-| kanapa sklum mati | czarna hehe | ~ 3k pln | |
-| jakiś kupon na fryzjera | bo klaudia mnie zje | ~ 60pln | |
-| deska do kibla | dla klaudii | ~ 200pln | |
-| uchwyty na papier toaletowy / ręczniki | z zary | ~ 80pln / szt. | |
-| uchwyty meblowe | do dużej łazienki | ~ xpln / szt. | |
-| piwo bananowe | ze spiżu | ~18pln / kufel | |
-| sygnet | jakiś fajny | ~xpln | |
-| monstera do mieszkania | ew. inne fajne kwiatki lub roślinki | ~xpln | |
-| call of duty modern warfare 2 | na ps5 to nowe ale jak kupisz to nie będę miał czasu na życie | ~ 320pln | |
-| zestaw legosów | żeby się fajnie prezentował | ~xpln | |
-| ... | ... | ~ ... pln | |
-
-## a jak nie będzie żadnych z powyższych rzeczy
-
-- filament do drukarki
-- buty na zimę
-- książka
-	- coś od J. Irvinga,
-	- B. Kernighan, D. Ritchie, C Programming Language,
-	- coś o programowaniu nt. języka Rust (ale nie z empika bo tam nie ma nic ciekawego), najlepiej zapytać to powiem co np.
-- półka na książki do mieszkania
-- fajna lampka (takie jak gantri lights)
-- fajna ramka / fajny obraz do mieszkania
-- serwer na Linode
-- gateron yellow x 42
-- jakieś fajne keycapy
-- ...
+# Lista prezentowa na święta 2023
+- [ ] Pamięć RAM SODIMM DDR4 (2400MHz max) 1x32GB lub 2x32GB jak jesteś hojny/a -- 250zł/stick ![przykład](https://www.zadowolenie.pl/goodram-pamiec-ddr4-sodimm-32gb-3200-cl22)
+- [ ] Powerbank 60W do laptopa (np. baseus addaman 60w) -- ~170 na promce ![przykład]() albo jak jesteś ![hojny/a](https://www.amazon.pl/dp/B09VPHVT2Z?smid=A2PGPJL0BBLHLX&tag=ugcplpepper21-21&ascsubtag=508449826)
+- [ ] Jakiś stuff do kompa / smart home
+- [ ] Kazar jitende czarne 42 -- 599zł ![takie](https://kazar.com/sznurowane-trzewiki-na-podeszwie-z-bieznikiem-83858-01-00.html)
+- [ ] Bata buty rozmiar 41 (nie trafiłem z rozmiarem) -- 388zł ![takie](https://www.zalando.pl/bata-botki-sznurowane-schwarz-bt912k01r-q11.html)
+- [ ] Lego technic zestaw silniki itp najlepiej z aliexpress podróbki
+- [ ] 
+- [ ] perfumy:
+    - [ ] mirsaal of trust
+    - [ ] tom ford ombre leather black
