@@ -1,11 +1,11 @@
 # Lista prezentowa na święta 2023
-- [ ] Pamięć RAM SODIMM DDR4 (2400MHz max) 1x32GB lub 2x32GB jak jesteś hojny/a -- 250zł/stick ![przykład](https://www.zadowolenie.pl/goodram-pamiec-ddr4-sodimm-32gb-3200-cl22)
-- [ ] Powerbank 60W do laptopa (np. baseus addaman 60w) -- ~170 na promce ![przykład]() albo jak jesteś ![hojny/a](https://www.amazon.pl/dp/B09VPHVT2Z?smid=A2PGPJL0BBLHLX&tag=ugcplpepper21-21&ascsubtag=508449826)
+- [ ] Pamięć RAM SODIMM DDR4 (2400MHz max) 1x32GB lub 2x32GB jak jesteś hojny/a -- 250zł/stick [przykład](https://www.zadowolenie.pl/goodram-pamiec-ddr4-sodimm-32gb-3200-cl22)
+- [ ] Powerbank 60W do laptopa (np. baseus addaman 60w) -- ~170zł na promce albo jak jesteś [hojny/a](https://www.amazon.pl/dp/B09VPHVT2Z?smid=A2PGPJL0BBLHLX&tag=ugcplpepper21-21&ascsubtag=508449826)
 - [ ] Jakiś stuff do kompa / smart home
-- [ ] Kazar jitende czarne 42 -- 599zł ![takie](https://kazar.com/sznurowane-trzewiki-na-podeszwie-z-bieznikiem-83858-01-00.html)
-- [ ] Bata buty rozmiar 41 (nie trafiłem z rozmiarem) -- 388zł ![takie](https://www.zalando.pl/bata-botki-sznurowane-schwarz-bt912k01r-q11.html)
+- [ ] Kazar jitende czarne 42 -- 599zł [takie](https://kazar.com/sznurowane-trzewiki-na-podeszwie-z-bieznikiem-83858-01-00.html)
+- [ ] Bata buty rozmiar 41 (nie trafiłem z rozmiarem) -- 388zł [takie](https://www.zalando.pl/bata-botki-sznurowane-schwarz-bt912k01r-q11.html)
 - [ ] Lego technic zestaw silniki itp najlepiej z aliexpress podróbki
 - [ ] 
 - [ ] perfumy:
     - [ ] mirsaal of trust
-    - [ ] tom ford ombre leather black
+    - [ ] tom ford ombre leather black, uwaga **drogo**
