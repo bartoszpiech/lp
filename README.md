@@ -6,7 +6,8 @@
 - [ ] Bata buty rozmiar 41 (nie trafiłem z rozmiarem) -- 388zł [takie](https://www.zalando.pl/bata-botki-sznurowane-schwarz-bt912k01r-q11.html)
 - [ ] Lego technic zestaw silniki itp najlepiej z aliexpress podróbki
 - [ ] Magnezja do wspinaczki na ściance **nie drogo**
-- [ ] Buty do wspinaczki na ściance **drogo**
+- [ ] Wór na magnezję do wspinaczki na ściance **nie drogo**
+- [ ] Buty wspinaczkowe **drogo** (np. la sportiva albo five ten od adidasa) -- [przykład](https://8a.pl/buty-wspinaczkowe-five-ten-quantum-vcs-solar-yellow) lub [inny przykład](https://8a.pl/buty-wspinaczkowe-la-sportiva-tarantula-olive-neon)
 - [ ] Majteczki jakieś fajne np. moschino (plus jakby się nie mieszały z majteczkami innych domowników)
 - [ ] Benzyna dziewięć pięć
 - [ ] perfumy:
