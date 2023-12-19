@@ -13,4 +13,6 @@
 - [ ] perfumy:
     - [ ] mirsaal of trust
     - [ ] tom ford ombre leather black, uwaga **drogo**
+- [ ] Wkrętarka milwaukee m12 12V **drogo** -- 600zł body
+- [ ] Żel pod prysznic L'Oreal Men Expert Barber Club -- 12zł [przykład](https://www.pepper.pl/promocje/loreal-men-expert-barber-club-zel-pod-prysznic-do-ciala-wlosow-i-brody-o-zapachu-drewna-cedrowego-2x-400ml-769845)
 - [ ] ...
