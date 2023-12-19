@@ -5,7 +5,11 @@
 - [ ] Kazar jitende czarne 42 -- 599zł [takie](https://kazar.com/sznurowane-trzewiki-na-podeszwie-z-bieznikiem-83858-01-00.html)
 - [ ] Bata buty rozmiar 41 (nie trafiłem z rozmiarem) -- 388zł [takie](https://www.zalando.pl/bata-botki-sznurowane-schwarz-bt912k01r-q11.html)
 - [ ] Lego technic zestaw silniki itp najlepiej z aliexpress podróbki
-- [ ] 
+- [ ] Magnezja do wspinaczki na ściance **nie drogo**
+- [ ] Buty do wspinaczki na ściance **drogo**
+- [ ] Majteczki jakieś fajne np. moschino (plus jakby się nie mieszały z majteczkami innych domowników)
+- [ ] Benzyna dziewięć pięć
 - [ ] perfumy:
     - [ ] mirsaal of trust
     - [ ] tom ford ombre leather black, uwaga **drogo**
+- [ ] ...
